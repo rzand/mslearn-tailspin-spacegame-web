@@ -5,6 +5,7 @@ pool:
   name: 'arrAgentPool'
   demands:
   - npm
+  
 
 variables:
   buildConfiguration: 'Release'
